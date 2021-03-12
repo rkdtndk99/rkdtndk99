@@ -13,4 +13,4 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
 <h3> 📫 How to reach me ... </h3>
-<a href="instagram.com/rkdtndk_1_23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=Instsgram&logoColor=white&link=instagram.com/rkdtndk_1_23"/></a>
+<a href="https://www.instagram.com/rkdtndk_1_23/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=Instsgram&logoColor=white&link=https://www.instagram.com/rkdtndk_1_23/"/></a>
