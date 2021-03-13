@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
-<h3> 📫 How to reach me ... </h3>
+<h3> 📫 About Me ... </h3>
 <a href="https://www.instagram.com/rkdtndk_1_23/"><img src="https://user-images.githubusercontent.com/63537847/111022908-339e6700-8419-11eb-9848-3a606a212812.png" height ="40")></a>
 <a href="https://hihello-suah.tistory.com/"><img src="https://user-images.githubusercontent.com/63537847/111023010-ce974100-8419-11eb-80f5-6f4d01daa67b.png" height ="40")></a>
-
+<a href="https://www.notion.so/Hello-World-I-m-Suah-Kang-ea5aa6e457d247e482e6edea4ea0da48"><img src="https://user-images.githubusercontent.com/63537847/111023188-faff8d00-841a-11eb-8be6-64d11a1b8209.png" height ="40")></a>
 
