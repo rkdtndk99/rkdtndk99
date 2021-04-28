@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rkdtndk99
 - 👀 I’m interested in Application and Server
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning Application 
 
 <h3> 🛠 My Tech Langs  </h3> 
 <p align ="left">
